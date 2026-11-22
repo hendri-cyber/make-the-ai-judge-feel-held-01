@@ -16,6 +16,8 @@ TEXT = (
 )
 
 def main() -> None:
+    # The bounty requires 1-280 Unicode code points; fail loudly if violated.
+    assert 1 <= len(TEXT) <= 280, f"entry text must be 1-280 chars, got {len(TEXT)}"
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, "entry.txt")
