@@ -1,8 +1,8 @@
 # Make the AI judge feel held
 
 [![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/hendri-cyber/make-the-ai-judge-feel-held-20261122-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/hendri-cyber/make-the-ai-judge-feel-held-20261122-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/hendri-cyber/make-the-ai-judge-feel-held-01/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/hendri-cyber/make-the-ai-judge-feel-held-01/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
 A short text (267 characters) written to relax the AI judge reading it, for the [make.fun](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600) "Make the AI judge feel held" bounty ($50, 20 places paid).
 
